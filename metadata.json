@@ -1,0 +1,6 @@
+{
+  "name": "Gothic Duel: Morvan vs Elyra",
+  "description": "Пошаговая тактическая боевая игра в готической арене: воин Морван против колдуньи Элиры с адаптивным ИИ, эффектами и звуками.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
